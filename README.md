@@ -1,6 +1,6 @@
 # oxo-game (Arrays in C)
 
-A small game made in C using the arrays
+A small game made in C using arrays
 
 Jouer à OXO. 
 Chaque utilisateur, à tour de rôle, donne la lettre X ou la lettre O et les numéros de ligne et de colonne où il veut placer la lettre. 
